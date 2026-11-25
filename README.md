@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/35390292/README.md)
 # Hirokazu Taguchi, MD
 
 ## About Me
